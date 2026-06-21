@@ -192,7 +192,7 @@ GameObject:
   - component: {fileID: 205172809637647580}
   - component: {fileID: 8404490786318865068}
   m_Layer: 0
-  m_Name: EA03_Prop_Pier_End_02a_PRE
+  m_Name: Test
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
