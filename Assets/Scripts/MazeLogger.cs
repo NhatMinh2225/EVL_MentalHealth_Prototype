@@ -50,7 +50,7 @@ public class MazeLogger : MonoBehaviour
 
         startTime = Time.unscaledTime;
 
-        Debug.Log("[MazeLogger] Đang ghi log tại: " + path);
+        Debug.Log(path);
     }
 
     /// <summary>
