@@ -22,7 +22,7 @@ public class MazeRespawner : MonoBehaviour
     public Vector3 spawnPosition = new Vector3(-228.25f, 0f, -6.25f);
 
     [Tooltip("Hướng nhìn lúc spawn (Euler góc Y, độ). Để 0 nếu không cần xoay.")]
-    public float spawnYaw = 0f;
+    public float spawnYaw = 90f;
 
     [Header("Thời gian nghỉ")]
     [Tooltip("Số giây 'tĩnh tâm' giữa lúc chạm đích và lúc respawn. Khoảng này nằm ngoài mọi run nên không tính vào metric.")]
