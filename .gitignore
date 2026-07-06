@@ -104,3 +104,5 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+Assets/ImportAsset/castle-of-loarre/source/Loarre.zip
+Assets/ImportAsset/castle-of-loarre/source/*.zip
