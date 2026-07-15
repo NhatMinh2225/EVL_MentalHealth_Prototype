@@ -1,0 +1,7 @@
+PlaythroughID,RecordType,Order,Name,FromNode,FromNodeEnterTimestamp,ToNode,ToNodeEnterTimestamp,Weight,TravelTime,DecisionTime,DecisionEnterTimestamp,DecisionExitTimestamp,ToDecisionNodeAndEnd,ExitEnterTimestamp,FinalTotalWeight,FinalTravelTime,FinalDecisionTime
+1,Path,1,10000,S1_2,2026-07-14 18:57:47.104,S1_2_E,2026-07-14 18:57:53.252,0.000,6.140,,,,Blue_L1_2,,,,
+1,Path,2,10000,L1_1_1,2026-07-14 18:57:54.880,L1_1_1_E,2026-07-14 18:58:03.242,0.000,8.360,,,,Blue_L2_0,,,,
+1,Path,3,10000,L2_1_1,2026-07-14 18:58:05.020,L2_1_1_E,2026-07-14 18:58:14.518,0.000,9.500,,,,Red1,2026-07-14 18:58:14.680,,,
+1,Decision,1,Blue_L1_2,,,,,,,1.540,2026-07-14 18:57:53.348,2026-07-14 18:57:54.880,,,,,
+1,Decision,2,Blue_L2_0,,,,,,,1.660,2026-07-14 18:58:03.364,2026-07-14 18:58:05.020,,,,,
+1,Summary,,,,,,,,,,,,,,0.000,24.000,3.200
