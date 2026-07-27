@@ -25,7 +25,7 @@ The hedge maze is one of two environments in CPAX (the other being a subway maze
 
 ## Built With
 
-- **Unity** [ghi phiên bản chính xác của hedge maze — ví dụ 6.4 / 6000.4.9f1]
+- **Unity 6000.4.9f1**
 - **ProBuilder** — maze layout construction
 - **C#** — game logic and behavioral logging
 - **Autodesk Maya / Blender** — asset modification
@@ -35,32 +35,23 @@ The hedge maze is one of two environments in CPAX (the other being a subway maze
 
 ### Prerequisites
 
-- Unity [phiên bản] or compatible
-- [các dependency khác nếu có]
+- Unity 6.4.2.1 or compatible
 
 ### Running the Project
 
 1. Clone the repository:
    ```bash
-   git clone [URL repo của bạn]
+   git clone https://github.com/NhatMinh2225/EVL_MentalHealth_Prototype
    ```
-2. Open the project in Unity Hub with Unity version [phiên bản].
-3. Open the scene [tên scene, ví dụ Scenes/HedgeMaze.unity].
+2. Open the project in Unity Hub with Unity version 6.4.2.1.
+3. Open the scene SceneChinhThuc.
 4. Press Play in the editor, or build a standalone application for Windows/macOS.
 
 ### Data Output
 
-Navigation data is written to a per-run CSV file [ghi rõ đường dẫn output, ví dụ `path_results_<timestamp>.csv`]. Each file contains path-level, decision-level, and playthrough-level records.
+Navigation data is written to a per-run CSV file. Each file contains path-level, decision-level, and playthrough-level records.
 
-## Repository Structure
 
-```
-[điền cấu trúc thư mục chính, ví dụ:]
-Assets/
-  Scenes/        # Unity scenes
-  Scripts/       # C# logic and logging
-  ...
-```
 
 ## Credits
 
@@ -69,7 +60,7 @@ Assets/
 
 ## License
 
-[Chọn license — ví dụ MIT, hoặc ghi "All rights reserved" nếu chưa quyết. Lưu ý: kiểm tra license của các asset bên thứ ba trước khi công khai code.]
+"All rights reserved" 
 
 ## Acknowledgments
 
